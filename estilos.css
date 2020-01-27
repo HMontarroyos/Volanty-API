@@ -1,0 +1,97 @@
+h2{
+	color:white;
+}
+.quantov{ 
+
+
+	color: rgb(40, 44, 52);
+    margin-bottom: 0px;
+    margin-top: 40px;
+    font-size: 62px;
+    line-height: 65px;
+    font-weight: 700;
+}
+
+.linha{
+    width: 100%;
+    height: 80px;
+
+    background-image: linear-gradient(90deg,#87CEFA,#4169E1);
+    display: flex;
+    align-items: center;
+	align-content: center;
+
+}
+
+body 
+{ 
+	background-color:#87CEFA ;
+	/*background: -webkit-gradient(linear,left top, right top, from(#ADD8E6), to(#87CEFA));*/
+
+}
+
+.carfundo{
+    margin:auto; 
+}
+
+#descri{
+	color: rgb(40, 44, 52);
+	font-size: 20px;
+}
+
+.footer{
+float: left;
+width: 100%;
+color:white;
+background:#485164 ;
+padding: 20px 0;
+position:absolute;
+height: 150px;
+font-family: Source Sans Pro,sans-serif;
+}
+
+.footer-col{
+width: 100%;
+float: left;
+margin-bottom: 30px;
+width:45%;
+}
+
+.footer-col h1{
+font-size: 18px;
+font-weight: bold;
+
+
+}
+.footer-col-links li {
+padding: 3px 0;
+
+}
+.footer-col-social {
+padding: 3px 0;
+
+
+}
+
+
+.footer-col:nth-child(2){
+	width:30%;
+	margin-left: 5%;
+	}
+	.footer-col:nth-child(2){
+		width:15%;
+		float: right;
+		}
+
+
+select
+{
+   -webkit-appearance: none;  
+   -moz-appearance: none; 
+   appearance: none; 
+   background: url(http://www.webcis.com.br/images/imagens-noticias/select/ico-seta-appearance.gif) no-repeat #eeeeee;
+   background-position: 218px center; width: 250px;  height:30px;
+    border:1px solid #ddd;
+
+}
+
